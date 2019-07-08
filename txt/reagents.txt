@@ -1,0 +1,17 @@
+Blacksmith
+Tempering Alloy https://eu.tamrieltradecentre.com/pc/Trade/SearchResult?ItemID=5687&SortBy=LastSeen&Order=desc
+Grain Solvent https://eu.tamrieltradecentre.com/pc/Trade/SearchResult?ItemID=4314&ItemNamePattern=Grain+Solvent
+Dwarven Oil https://eu.tamrieltradecentre.com/pc/Trade/SearchResult?ItemID=1016&ItemNamePattern=Dwarven+Oil
+Honing Stone https://eu.tamrieltradecentre.com/pc/Trade/SearchResult?ItemID=4593&ItemNamePattern=Honing+Stone
+
+Clothing
+Dreugh Wax https://eu.tamrieltradecentre.com/pc/Trade/SearchResult?ItemID=211&SortBy=LastSeen&Order=desc
+Elegant Lining https://eu.tamrieltradecentre.com/pc/Trade/SearchResult?ItemID=558&ItemNamePattern=Elegant+Lining
+Embroidery https://eu.tamrieltradecentre.com/pc/Trade/SearchResult?ItemID=1748&ItemNamePattern=Embroidery
+Hemming https://eu.tamrieltradecentre.com/pc/Trade/SearchResult?ItemID=388&ItemNamePattern=Hemming
+
+Woodworking
+Rosin https://eu.tamrieltradecentre.com/pc/Trade/SearchResult?ItemID=2677&SortBy=LastSeen&Order=desc
+Mastic https://eu.tamrieltradecentre.com/pc/Trade/SearchResult?ItemID=2070&ItemNamePattern=Mastic
+Turper https://eu.tamrieltradecentre.com/pc/Trade/SearchResult?ItemID=2969&ItemNamePattern=Turpen
+Pitch https://eu.tamrieltradecentre.com/pc/Trade/SearchResult?ItemID=4811&ItemNamePattern=Pitch
